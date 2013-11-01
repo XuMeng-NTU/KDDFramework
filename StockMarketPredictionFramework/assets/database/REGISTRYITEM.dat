@@ -1,0 +1,19 @@
+1%"Stock Market Prediction Framework"%"CATEGORY"%
+2%"Components"%"CATEGORY"%1
+4%"Flows"%"CATEGORY"%1
+6%"Datasets"%"CATEGORY"%1
+7%"Senarios"%"CATEGORY"%1
+8%"Preprocessing"%"CATEGORY"%2
+9%"Links"%"CATEGORY"%2
+10%"Cleaner"%"CATEGORY"%8
+11%"Indicator"%"CATEGORY"%8
+12%"Passing"%"CATEGORY"%9
+13%"Date"%"COMPONENT"%10
+14%"MACD"%"COMPONENT"%11
+15%"DirectPassing"%"COMPONENT"%12
+16%"Test"%"CATEGORY"%4
+17%"TestFlow"%"FLOW"%16
+18%"Test"%"CATEGORY"%6
+19%"TestDataset"%"DATASET"%18
+20%"Test"%"CATEGORY"%7
+21%"TestSenario"%"SENARIO"%20
